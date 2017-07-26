@@ -1,0 +1,79 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<meta charset = ¨UFT-8¨/>
+		<title>PracticaFormulario</title>
+		<script type="text/javascript">
+			function sessionLocal(nombre, apellido)
+				{	
+					sessionStorage.setItem (nombre.name , nombre.value);
+					sessionStorage.setItem (apellido.name, apellido.value);
+				}
+			alert ("Hola, los Datos Generales enviaran info a una pestana Saludos al Guardar")
+		</script>
+	</head>
+	<body>
+		<div>
+			<h1>Información personal</h1>
+		</div>
+		<div>
+			<section>
+				<header>
+					<h4>Foto del perfil</h4>
+				</header>
+				<div>
+					<input type= "file" name= "adjunto" /> 
+				</div>
+			</section>
+			<hr>
+			<section>	
+				<header>
+					<h4>Datos Generales</h4>
+				<header/>
+				<div>
+					<form action = "C:\Users\Lesly\Desktop\practicas\saluda.html" onsubmit = "sessionStorage ( nombre , apellido)" >
+						<label for = "nombre">Nombre:</label>
+						<input type="text" id = "nombre" name="nombre" placeholder = "ej: Lesly" value = "" />
+						<br>
+						<label for = "apellido">Apellido:</label>
+						<input type="text" id = "apellido" name="apellido" placeholder = "ej: Hurtado" value = ""/>
+						<br>
+						<input type = "submit" value = "Guardar"/>
+					</form>
+				</div>
+			</section>
+			<hr>
+			<section>
+				<header>
+					<h4>Fecha de nacimiento</h4>
+				</header>
+				<div>
+					<label for = "dia" >Dia</label>
+					<input type = "day" name= "dia" id = "dia" maxlength = "2" size = "2" />
+					<br>
+					<label >Mes y ano</label>
+					<input type = "month" name= "mes" value = "" />
+				</div>
+			</section>
+			<hr>
+			<section>
+				<header>
+					<h4>Contacto</h4>
+				</header>
+				<div>
+					<label for = "email">Email</label>
+					<input type = "email" name = "email" id = "email" placeholder = "ej: user@domain.com" />
+					<br>
+					<label for = "pagina">Pagina Web</label>
+					<input type = "" name = "pagina" id = "pagina" placeholder = "ej:  http://mywebsite.com/" />
+					<br>
+					<label for= "telefono">Telefono</label>
+					<input type = "phone" name = "telefono" id = "telefono"placeholder = "+(505) 12345678" />
+				</div>
+			</section>
+			<div>
+				<br><br>
+			</div>
+		</div>
+	</body>
+</html>

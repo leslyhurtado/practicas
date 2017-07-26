@@ -1,0 +1,47 @@
+table
+{
+	border-collapse: collapse; 
+}
+
+th, td
+{	
+	border-top: black 1px solid;
+	border-bottom: black 1px solid;
+	border-left: black 1px solid;
+	border-right: black 1px solid;
+}
+
+#titulo
+{
+	color: teal;
+}
+
+body p > strong, a , th
+{
+	color: red;
+}
+
+body p .destacado , .especial , strong
+{
+	color: orange;
+}
+
+#subtitulo ,  em , caption
+{
+	color: blue;
+}
+
+span.especial , span#especial 
+{
+	color: purple;
+}
+
+td , td em , a[href="*"]
+{
+	color: green;
+}
+
+#adicional
+{
+	color: olive;
+}
