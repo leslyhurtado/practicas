@@ -1,0 +1,45 @@
+figure
+{
+	margin 0; /*siempre de deja en cero cuando es imagen, para que no ocupe espacio inecesario*/ 
+}
+
+main
+{
+	margin: 0 auto; /*el primer valor es arriba y abajo, el segundo al lado derecho e izquierdo por defecto*/
+	width: 70%
+}
+
+main footer
+{
+	margin-top: 30px;
+	display: flex; /*coloca a la par de manera fila lo que continua segun el contenido. parecido al float left*/
+	margin-bottom: 50px;
+}
+main footer figure img 
+{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+}
+
+p
+{
+	text-align: justify;
+}
+
+main footer .author-description
+{
+	font-family: lato;
+}
+
+main footer .author-description h4
+{
+	margin: 0;
+	color: rgba (0,0,0.8);
+}
+
+main footer .author-description p
+{
+	margin-top: 5px;
+	color: rgba (128,128,128,0.83);
+}

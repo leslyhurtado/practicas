@@ -1,0 +1,7 @@
+El elemento #cabecera debe tener un relleno de 1em en todos los lados.
+El elemento #menu debe tener un relleno de 0.5em en todos los lados y un margen inferior de 0.5em.
+El resto de elementos (#noticias, #publicidad, #principal, #secundario) deben tener 0.5em de relleno en todos sus lados, salvo el elemento #pie, que sólo debe tener relleno en la zona superior e inferior.
+Los elementos .articulo deben mostrar una separación entre ellos de 1em.
+Las imágenes de los artículos muestran un margen de 0.5em en todos sus lados.
+El elemento #publicidad está separado 1em de su elemento superior.
+El elemento #pie debe tener un margen superior de 1em.

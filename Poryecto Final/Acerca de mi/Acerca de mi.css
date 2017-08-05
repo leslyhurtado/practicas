@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("Acerca de mi.gif");
+	background-repeat: no-repeat; /*no deja que se repita la foto*/
+	background-size: 1400px 350px; /*tamano de la foto*/
+	background-position: 0px 0px; /*posicion*/
+	background-color: #333333; /*color de fondo*/
+}
+
+*
+{
+	color: white;
+}
+
+.MenuPrincipal, a , li
+{
+	margin-top: 60px;
+	list-style: none; /*quita los puntos de la izquierda de la listas*/
+	text-decoration: none; /*quita el subrayado de la lista*/
+	font-weight: bolder; /*le pone negrita a las letras*/
+	color: #333333;
+	font-size: 25px; /*tama;o de letra*/
+} 
+
+a:hover /*coloca el color al pasar el mouse por la lista*/
+{
+	background-color: white; 
+}
+
+.Titulo
+{
+	text-align: center;
+	margin-top: 100px;
+	color: #663300;
+}
+
+/*div, header, ul, li, h1, h2, p, footer, a
+{
+  border-top-style: dashed;
+  border-right-style: dashed;
+  border-bottom-style: dashed;
+  border-left-style: dashed;
+}*/
+
+img
+{
+	float: left;
+	height: 150px; /*alto*/
+	width: 180px; /*ancho*/
+	margin: .5em .5em .1em .5em; /*top, rigth, bottom, left*/
+	border-radius: 100%; /*forma redonda*/
+	/*padding 10px;*/
+
+}
+
+div[class="parrafo"]
+{
+	float: left;
+	text-align: justify;
+	margin-left: 10px;
+	padding-left: 10px;
+	/*width: 30px;*/
+}
