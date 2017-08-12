@@ -6,12 +6,6 @@ body
 	background-position: 0px 0px; /*posicion*/
 	background-color: #333333; /*color de fondo*/
 }
-
-*
-{
-	color: white;
-}
-
 .MenuPrincipal, a , li
 {
 	margin-top: 60px;
@@ -20,28 +14,8 @@ body
 	font-weight: bolder; /*le pone negrita a las letras*/
 	color: #333333;
 	font-size: 25px; /*tama;o de letra*/
+	
 } 
-
-a:hover /*coloca el color al pasar el mouse por la lista*/
-{
-	background-color: white; 
-}
-
-.Titulo
-{
-	text-align: center;
-	margin-top: 100px;
-	color: #663300;
-}
-
-/*div, header, ul, li, h1, h2, p, footer, a
-{
-  border-top-style: dashed;
-  border-right-style: dashed;
-  border-bottom-style: dashed;
-  border-left-style: dashed;
-}*/
-
 img
 {
 	float: left;
@@ -49,15 +23,31 @@ img
 	width: 180px; /*ancho*/
 	margin: .5em .5em .1em .5em; /*top, rigth, bottom, left*/
 	border-radius: 100%; /*forma redonda*/
-	/*padding 10px;*/
-
 }
-
-div[class="parrafo"]
+a:hover /*coloca el color al pasar el mouse por la lista*/
 {
-	float: left;
+	background-color: white; 
+}
+.Titulo
+{
+	letter-spacing: 10px;
+	text-align: center;
+	margin-top: 100px;
+	color: #333333;
+}
+*
+{
+	color: white;
+}
+p
+{
 	text-align: justify;
-	margin-left: 10px;
-	padding-left: 10px;
-	/*width: 30px;*/
+	margin: 20px 20px;
+}
+.Autor
+{
+	margin-top: 50px;
+	margin-right: 10px;
+	text-align: right;
+	color: white;
 }
