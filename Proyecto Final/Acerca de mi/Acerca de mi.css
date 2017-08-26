@@ -1,0 +1,53 @@
+body
+{
+	background-image: url("Acerca de mi.gif");
+	background-repeat: no-repeat; /*no deja que se repita la foto*/
+	background-size: 1400px 350px; /*tamano de la foto*/
+	background-position: 0px 0px; /*posicion*/
+	background-color: #333333; /*color de fondo*/
+}
+.MenuPrincipal, a , li
+{
+	margin-top: 60px;
+	list-style: none; /*quita los puntos de la izquierda de la listas*/
+	text-decoration: none; /*quita el subrayado de la lista*/
+	font-weight: bolder; /*le pone negrita a las letras*/
+	color: #333333;
+	font-size: 25px; /*tama;o de letra*/
+	
+} 
+img
+{
+	float: left;
+	height: 150px; /*alto*/
+	width: 180px; /*ancho*/
+	margin: .5em .5em .1em .5em; /*top, rigth, bottom, left*/
+	border-radius: 100%; /*forma redonda*/
+}
+a:hover /*coloca el color al pasar el mouse por la lista*/
+{
+	background-color: white; 
+}
+.Titulo
+{
+	letter-spacing: 10px;
+	text-align: center;
+	margin-top: 100px;
+	color: #333333;
+}
+*
+{
+	color: white;
+}
+p
+{
+	text-align: justify;
+	margin: 20px 20px;
+}
+.Autor
+{
+	margin-top: 50px;
+	margin-right: 10px;
+	text-align: right;
+	color: white;
+}
