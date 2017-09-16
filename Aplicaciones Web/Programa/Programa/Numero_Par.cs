@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace Programa
         public int Numero { get; set; }
         public string MostrarNumeroPar()
         {
-            return "El Numero: " + Numero + " es par";
+            return "El Numero: " + Numero + " es Par";
         }
         public string MostrarNumeroNoPar()
         {

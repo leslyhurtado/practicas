@@ -11,7 +11,11 @@ namespace Programa
         static void Main(string[] args)
         {
             Numero_Par numero = new Numero_Par();
-            numero.Numero = 1;
+            numero.Numero = 0;
+
+            Console.WriteLine("Digite el Numero a Validar: ");
+            numero.Numero = Convert.ToInt32(Console.ReadLine());
+
             if ((numero.Numero % 2 ) == 0 ) 
             {
                 Console.WriteLine (numero.MostrarNumeroPar());

@@ -1,0 +1,6 @@
+c:\users\lesly\documents\visual studio 2015\Projects\RangoNumero\RangoNumero\bin\Debug\RangoNumero.exe.config
+c:\users\lesly\documents\visual studio 2015\Projects\RangoNumero\RangoNumero\obj\Debug\RangoNumero.csprojResolveAssemblyReference.cache
+C:\Users\Lesly\Documents\Visual Studio 2015\Projects\RangoNumero\RangoNumero\bin\Debug\RangoNumero.exe
+C:\Users\Lesly\Documents\Visual Studio 2015\Projects\RangoNumero\RangoNumero\bin\Debug\RangoNumero.pdb
+C:\Users\Lesly\Documents\Visual Studio 2015\Projects\RangoNumero\RangoNumero\obj\Debug\RangoNumero.exe
+C:\Users\Lesly\Documents\Visual Studio 2015\Projects\RangoNumero\RangoNumero\obj\Debug\RangoNumero.pdb

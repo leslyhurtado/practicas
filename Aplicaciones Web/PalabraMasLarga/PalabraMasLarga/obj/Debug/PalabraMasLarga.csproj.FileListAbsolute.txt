@@ -1,0 +1,6 @@
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\bin\Debug\PalabraMasLarga.exe.config
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\bin\Debug\PalabraMasLarga.exe
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\bin\Debug\PalabraMasLarga.pdb
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\obj\Debug\PalabraMasLarga.csprojResolveAssemblyReference.cache
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\obj\Debug\PalabraMasLarga.exe
+c:\users\lesly\documents\visual studio 2015\Projects\PalabraMasLarga\PalabraMasLarga\obj\Debug\PalabraMasLarga.pdb

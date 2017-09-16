@@ -1,0 +1,6 @@
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\bin\Debug\NumeroPositivo.exe.config
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\bin\Debug\NumeroPositivo.exe
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\bin\Debug\NumeroPositivo.pdb
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\obj\Debug\NumeroPositivo.csprojResolveAssemblyReference.cache
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\obj\Debug\NumeroPositivo.exe
+c:\users\lesly\documents\visual studio 2015\Projects\NumeroPositivo\NumeroPositivo\obj\Debug\NumeroPositivo.pdb

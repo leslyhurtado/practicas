@@ -1,0 +1,6 @@
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\bin\Debug\OrdenNumeros.exe.config
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\bin\Debug\OrdenNumeros.exe
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\bin\Debug\OrdenNumeros.pdb
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\obj\Debug\OrdenNumeros.csprojResolveAssemblyReference.cache
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\obj\Debug\OrdenNumeros.exe
+c:\users\lesly\documents\visual studio 2015\Projects\OrdenNumeros\OrdenNumeros\obj\Debug\OrdenNumeros.pdb
