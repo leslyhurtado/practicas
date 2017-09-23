@@ -4,3 +4,6 @@ c:\users\lesly\documents\visual studio 2015\Projects\Programa\Programa\bin\Debug
 c:\users\lesly\documents\visual studio 2015\Projects\Programa\Programa\bin\Debug\Programa.pdb
 c:\users\lesly\documents\visual studio 2015\Projects\Programa\Programa\obj\Debug\Programa.exe
 c:\users\lesly\documents\visual studio 2015\Projects\Programa\Programa\obj\Debug\Programa.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Programa\Programa\bin\Debug\Programa.exe.config
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Programa\Programa\obj\Debug\Programa.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Programa\Programa\obj\Debug\Programa.pdb

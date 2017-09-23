@@ -4,3 +4,9 @@ c:\users\lesly\documents\visual studio 2015\Projects\FechaHora\FechaHora\bin\Deb
 c:\users\lesly\documents\visual studio 2015\Projects\FechaHora\FechaHora\bin\Debug\FechaHora.pdb
 c:\users\lesly\documents\visual studio 2015\Projects\FechaHora\FechaHora\obj\Debug\FechaHora.exe
 c:\users\lesly\documents\visual studio 2015\Projects\FechaHora\FechaHora\obj\Debug\FechaHora.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\bin\Debug\FechaHora.exe.config
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\obj\Debug\FechaHora.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\obj\Debug\FechaHora.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\bin\Debug\FechaHora.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\bin\Debug\FechaHora.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\FechaHora\FechaHora\obj\Debug\FechaHora.csprojResolveAssemblyReference.cache

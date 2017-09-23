@@ -4,3 +4,6 @@ c:\users\lesly\documents\visual studio 2015\Projects\Cadena\Cadena\bin\Debug\Cad
 c:\users\lesly\documents\visual studio 2015\Projects\Cadena\Cadena\bin\Debug\Cadena.pdb
 c:\users\lesly\documents\visual studio 2015\Projects\Cadena\Cadena\obj\Debug\Cadena.exe
 c:\users\lesly\documents\visual studio 2015\Projects\Cadena\Cadena\obj\Debug\Cadena.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Cadena\Cadena\bin\Debug\Cadena.exe.config
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Cadena\Cadena\obj\Debug\Cadena.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Cadena\Cadena\obj\Debug\Cadena.pdb
