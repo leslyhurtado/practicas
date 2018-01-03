@@ -4,3 +4,9 @@ C:\Users\Lesly\Documents\Visual Studio 2015\Projects\Clases_Entidad_Metodo\Clase
 C:\Users\Lesly\Documents\Visual Studio 2015\Projects\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.csprojResolveAssemblyReference.cache
 C:\Users\Lesly\Documents\Visual Studio 2015\Projects\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.exe
 C:\Users\Lesly\Documents\Visual Studio 2015\Projects\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\bin\Debug\Clases_Entidad_Metodo.exe.config
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\bin\Debug\Clases_Entidad_Metodo.exe
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\bin\Debug\Clases_Entidad_Metodo.pdb
+C:\Users\Lesly\Desktop\practicas\Aplicaciones Web\Clases_Entidad_Metodo\Clases_Entidad_Metodo\obj\Debug\Clases_Entidad_Metodo.csprojResolveAssemblyReference.cache
