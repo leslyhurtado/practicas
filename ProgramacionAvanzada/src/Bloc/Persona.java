@@ -3,20 +3,18 @@ package Bloc;
 
 public class Persona 
 {
-    String nombre, apellido, email;
-    int edad, telefono,id;
+    int id_persona;
+    String nombre, apellido, email, perfil;
 
-    public int getId() { return id; }
-    public void setId(int id) { this.id = id; }
+    public int getId_persona() { return id_persona; }
+    public void setId_persona(int id_persona) { this.id_persona = id_persona;  }
+    public String getPerfil() { return perfil; }
+    public void setPerfil(String perfil) { this.perfil = perfil; }
     public String getEmail() { return email; }
     public void setEmail(String email) { this.email = email; }
-    public int getTelefono() {  return telefono; }
-    public void setTelefono(int telefono) { this.telefono = telefono; }
-    public String getNombre() { return nombre;  }
+    public String getNombre() { return nombre; }
     public void setNombre(String nombre) { this.nombre = nombre; }
     public String getApellido() { return apellido; }
     public void setApellido(String apellido) { this.apellido = apellido;  }
-    public int getEdad() { return edad; }
-    public void setEdad(int edad) { this.edad = edad; }
 
 }

@@ -1,48 +1,38 @@
 package Bloc;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Registro extends Persona
 {
-    int i=0;
+    String perfil = "";
     Lectura leer = new Lectura();
-    List <Persona> listapersona = new ArrayList<>();
     Persona persona = new Persona();
-
+    ConexionBD conexionbd = new ConexionBD();
+    
     public Registro()
     {
     }
-    
     public Registro(Registro actual)
     {
        super.nombre = actual.nombre;
        super.apellido = actual.apellido;
-       super.edad = actual.edad;
        super.email = actual.email;
-       super.telefono = actual.telefono;
     }
-    
-    public void NuevoRegistro()
+    public void NuevoRegistro(String perfil)
     {
-        System.out.println("\nId Creado:" + listapersona.size());
-        persona.setId(i);
-        System.out.println("Ingrese Nombre: " + listapersona.size());
-        persona.setNombre(leer.Cadena());
-        System.out.println("Ingrese Apellido: " + listapersona.size());
-        persona.setApellido(leer.Cadena());
-        System.out.println("Ingrese Edad: " + listapersona.size());
-        persona.setEdad(leer.Entero());
-        ValidarEdad();
-        System.out.println("Ingrese E-mail: " + listapersona.size());
-        persona.setEmail(leer.Cadena());
-        System.out.println("Ingrese Telefono: " + listapersona.size());
-        persona.setTelefono(leer.Entero());
-        listapersona.add(persona);
-        i++;
+        persona.id_persona = conexionbd.Validacion_ID_Persona()+1; //incrementa una posicion mas en la BD de personas
+
+        System.out.println("\nId Nuevo Asignado: " + persona.id_persona);
+       
+        System.out.println("Ingrese Nombre: ");
+        persona.nombre = leer.Cadena();
+        System.out.println("Ingrese Apellido: ");
+        persona.apellido = leer.Cadena();
+        System.out.println("Ingrese E-mail: ");
+        persona.email = leer.Cadena();
+
+        conexionbd.Insertar_Persona(persona.id_persona, persona.nombre, persona.apellido, persona.email, perfil);
+        
     }
-    
-    public void ValidarEdad()
+/*  public void ValidarEdad()
     {
         while (persona.getEdad() <=17)
         {
@@ -56,7 +46,6 @@ public class Registro extends Persona
             }
         } 
     }
-
     public void BuscarRegistro(int opcion)
     {
         int m=0;
@@ -75,7 +64,7 @@ public class Registro extends Persona
 
                 for (Persona n : listapersona) 
                     {
-                        if (m == n.getId()) 
+                        if (m == n.getId_Persona()) 
                         {
                             System.out.println("\n\t\t\t\tBIENVENIDO: " + n.getNombre());
                             break;
@@ -94,4 +83,5 @@ public class Registro extends Persona
             }
         }
     }
+*/
 }
