@@ -3,11 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Bloc/Pagina_Usuario.java</file>
-            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Bloc/Registro.java</file>
-            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Bloc/Pagina_Administrador.java</file>
-            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Bloc/ConexionBD.java</file>
-            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Bloc/Principal.java</file>
+            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Clase_28_01_2018/CorreoAdministrador.java</file>
+            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Clase_28_01_2018/Correos.java</file>
+            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Clase_28_01_2018/CorreoSupervisor.java</file>
+            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Clase_28_01_2018/Principal.java</file>
+            <file>file:/C:/Users/Lesly/Documents/NetBeansProjects/ProgramacionAvanzada/src/Clase_28_01_2018/EnviarMensaje.java</file>
         </group>
     </open-files>
 </project-private>
